@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Shrihari Deshapande
+# Hey there! 👋 I'm Shrihari Deshapande
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;DSA+Enthusiast;Problem+Solver;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,35 +11,39 @@
 
 ---
 
-## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
+## 🚀 About Me <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
+
+
 
 - 🌱 I'm currently learning **Spring Boot**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java and Spring Boot**
 - 📫 How to reach me: **shriharideshpande901@gmail.com**
+<br>
+</br>
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="left">
+<div align="center">
+<h3> Languages: </h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
+</div>
 
-### Backend
-<p align="left">
+<div align="center">
+<h3> Backend: </h3>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
-</p>
+</div>
 
-### Database
-<p align="left">
+<div align="center">
+<h3> Database: </h3>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+</div>
 
 ---
 
@@ -86,7 +90,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
