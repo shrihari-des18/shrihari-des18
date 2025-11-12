@@ -1,105 +1,89 @@
-# Hey there! 👋 I'm Shrihari Deshapande
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;DSA+Enthusiast;Problem+Solver;" alt="Typing SVG" />
-</div>
+<h1 align="center">Shrihari Deshapande</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrihari-des18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shrihari-des18?label=Followers&style=social" alt="GitHub followers" />
+  <strong>Backend Developer</strong><br>
+  Specializing in Java Enterprise Applications
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shriharideshapande"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shriharideshpande901@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/shrihari-des18"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
+### Professional Summary
 
-## 🚀 About Me <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
+Backend Software Engineer with expertise in Java ecosystem and enterprise application development. Focused on building scalable, maintainable systems with emphasis on clean architecture and efficient algorithms. Experienced in designing RESTful APIs and database optimization.
 
-
-
-- 🌱 I'm currently learning **Spring Boot**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java and Spring Boot**
-- 📫 How to reach me: **shriharideshpande901@gmail.com**
-<br>
-</br>
-
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-<h3> Languages: </h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</div>
-
-<div align="center">
-<h3> Backend: </h3>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
-</div>
-
-<div align="center">
-<h3> Database: </h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
+**Core Competencies:**
+- Enterprise Java Development
+- Spring Boot Framework & Microservices
+- Database Design & Optimization (PostgreSQL)
+- Data Structures & Algorithm Design
+- Object-Oriented Programming & Design Patterns
+- RESTful API Development
 
 ---
 
-## 📊 GitHub Stats
+### Technical Expertise
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrihari-des18&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrihari-des18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrihari-des18&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="600"/>
-</div>
+```
+Languages:        Java, C, C++
+Frameworks:       Spring Boot, Spring Framework
+Databases:        PostgreSQL
+Concepts:         Data Structures, Algorithms, OOP, System Design
+Tools:            Git, Maven, REST APIs
+```
 
 ---
 
+### Current Focus
 
-## 📈 Activity Graph
+```yaml
+Learning:           Advanced Spring Boot patterns and microservices architecture
+Building:           Scalable backend systems with optimal performance
+Exploring:          Cloud-native application development
+Interested in:      Contributing to open-source Java projects
+```
+
+---
+
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrihari-des18&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrihari-des18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/shrihari-des18)
+
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrihari-des18&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff)](https://github.com/shrihari-des18)
+
 </div>
 
 ---
 
+### Professional Interests
 
-
-
-
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shriharideshapande">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/shrihari_des18">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:shriharideshpande901@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+- **Backend Architecture:** Designing robust, scalable server-side applications
+- **Algorithm Optimization:** Solving complex computational problems efficiently
+- **Open Source:** Contributing to impactful community-driven projects
+- **Continuous Learning:** Staying current with Java ecosystem advancements
 
 ---
 
-## 💡 Dev Quote
+### Contact & Collaboration
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+I welcome opportunities to discuss:
+- Backend development projects and collaborations
+- Technical problem-solving and architecture design
+- Open-source contributions
+- Professional networking
+
+**Reach out:** [shriharideshpande901@gmail.com](mailto:shriharideshpande901@gmail.com)
 
 ---
 
-
-<div align="center">
-  <h3>💻 Thanks for visiting my profile! 💻</h3>
-  <p>⭐️ From <a href="https://github.com/shrihari-des18">@shrihari-des18</a></p>
-</div>
+<p align="center">
+  <sub>Building reliable software, one commit at a time.</sub>
+</p>
