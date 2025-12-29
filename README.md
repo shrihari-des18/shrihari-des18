@@ -53,11 +53,25 @@ Interested in:      Contributing to open-source Java projects
 ### GitHub Activity
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrihari-des18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/shrihari-des18)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrihari-des18&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/shrihari-des18">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=shrihari-des18&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shrihari-des18">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrihari-des18&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff" />
+  </a>
+</p>
 
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrihari-des18&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff)](https://github.com/shrihari-des18)
+<!--[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrihari-des18&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff)](https://github.com/shrihari-des18)-->
 
 </div>
 
